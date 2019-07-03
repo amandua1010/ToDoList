@@ -1,0 +1,50 @@
+body{
+    background-image: url(4.jpg);
+    background-size: cover;
+
+}
+
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
+strong{
+    font-size: 25px;
+    margin-left: 375px; 
+}
+button{
+    margin-left: 25px;
+}
+
+ul{
+    margin-left: 510px;
+    font-size: 20px;
+    color: red;
+}
+
+#delete{
+    margin-left: 550px;
+    margin-top: 10px;
+}
+
+button{
+    font-size: 15px;
+    color: black;
+    padding-left:15px;
+    padding-right:15px;
+    padding-top:5px;
+    padding-bottom:5px;
+    border:none;
+    border-radius: 0px
+
+}
+
+input{
+    background-color: rgb(132, 190, 204, 0.5);
+    color: red;
+    outline:none;
+    border:none;
+    padding-top:5px; 
+    padding-bottom:5px;
+    font-size: 20px;
+}
