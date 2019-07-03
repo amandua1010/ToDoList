@@ -7,17 +7,18 @@ body{
 h1{
     text-align: center;
     margin-top: 50px;
+    font-size: 40px;
 }
 strong{
-    font-size: 25px;
-    margin-left: 375px; 
+    font-size: 35px;
+    margin-left: 330px; 
 }
 button{
-    margin-left: 25px;
+    margin-left: 15px;
 }
 
 ul{
-    margin-left: 510px;
+    margin-left: 480px;
     font-size: 20px;
     color: red;
 }
